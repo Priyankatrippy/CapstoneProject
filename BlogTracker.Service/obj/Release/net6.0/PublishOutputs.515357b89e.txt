@@ -1,0 +1,14 @@
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.Service\obj\Release\net6.0\PubTmp\Out\BlogTracker.Service.exe
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.Service\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.Service\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.Service\obj\Release\net6.0\PubTmp\Out\BlogTracker.Service.dll
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.Service\obj\Release\net6.0\PubTmp\Out\BlogTracker.Service.deps.json
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.Service\obj\Release\net6.0\PubTmp\Out\BlogTracker.Service.runtimeconfig.json
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.Service\obj\Release\net6.0\PubTmp\Out\BlogTracker.Service.pdb
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.Service\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.Service\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.Service\obj\Release\net6.0\PubTmp\Out\BlogTracker.DAL.dll
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.Service\obj\Release\net6.0\PubTmp\Out\EntityFramework.dll
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.Service\obj\Release\net6.0\PubTmp\Out\BlogTracker.DAL.pdb
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.Service\obj\Release\net6.0\PubTmp\Out\BlogTracker.DAL.dll.config
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.Service\obj\Release\net6.0\PubTmp\Out\EntityFramework.xml

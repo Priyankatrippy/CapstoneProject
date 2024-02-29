@@ -1,0 +1,33 @@
+body {
+    background-color: lightcyan;
+}
+
+.container {
+    margin-top: 20px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.blog-entry {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+
+.blog-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: blue;
+}
+
+.blog-details {
+    font-size: 14px;
+    color: black;
+}
+
+.blog-url {
+    color: blue;
+    text-decoration: underline;
+}

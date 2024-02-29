@@ -1,0 +1,55 @@
+﻿@model IEnumerable<BlogTracker.UI.Models.EmployeeViewModel>
+
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<h1>Employee List</h1>
+
+<p>
+    <a asp-action="AddEmployee">Add New Employee</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Email ID
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Date Of Joining
+            </th>
+            <th>
+                Pass Code
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmailId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateOfJoining)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PassCode)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.EmailId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.EmailId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.EmailId })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

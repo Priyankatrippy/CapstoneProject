@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iq4RLx19P3HRQYBGrkjGrn5qoyIfSxQiKFoJgwHBWSI=",
+  "Source": "BlogTracker.Service",
+  "BasePath": "_content/BlogTracker.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

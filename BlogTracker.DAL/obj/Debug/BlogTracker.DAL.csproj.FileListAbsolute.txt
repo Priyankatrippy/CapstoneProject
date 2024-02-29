@@ -1,0 +1,14 @@
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.DAL\bin\Debug\BlogTracker.DAL.dll.config
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.DAL\bin\Debug\BlogTracker.DAL.dll
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.DAL\bin\Debug\BlogTracker.DAL.pdb
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.DAL\bin\Debug\EntityFramework.dll
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.DAL\bin\Debug\EntityFramework.xml
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.DAL\obj\Debug\BlogTracker.DAL.csproj.AssemblyReference.cache
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.DAL\obj\Debug\BlogTracker.DAL.csproj.CoreCompileInputs.cache
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.DAL\obj\Debug\BlogTracker.DAL.csproj.CopyComplete
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.DAL\obj\Debug\BlogTracker.DAL.dll
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.DAL\obj\Debug\BlogTracker.DAL.pdb
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.DAL\obj\Debug\BlogTracker.DAL.Migrations.InitialCreate.resources
+D:\mphasis\Phase-4\Capstone Project\BlogTrackerApplication\BlogTracker.DAL\obj\Debug\BlogTracker.DAL.csproj.GenerateResource.cache

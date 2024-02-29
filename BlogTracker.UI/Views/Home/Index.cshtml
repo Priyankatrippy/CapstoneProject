@@ -1,0 +1,64 @@
+﻿@model List<BlogTracker.UI.Models.BlogViewModel>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Blog Tracker - Home Page</title>
+    <style>
+        /* Add your CSS styles for page layout and blog items here */
+        body {
+            background-color: lightcyan;
+            color: navy;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        .blog-item {
+            margin-bottom: 20px;
+            border-bottom: 1px solid navy;
+            padding-bottom: 10px;
+        }
+        .blog-title {
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+        .blog-author {
+            color: gray;
+            font-size: 0.9em;
+        }
+        .blog-date {
+            color: darkgreen;
+            font-style: italic;
+            font-size: 0.9em;
+        }
+        .blog-url {
+            color: blue;
+            text-decoration: none;
+        }
+        .blog-url:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Blog Tracker</h1>
+        <h2>List of Blogs</h2>
+        <ul>
+            @foreach (var blog in Model)
+            {
+                <li class="blog-item">
+                    <div class="blog-title">@blog.Title</div>
+                    <div class="blog-author">By @blog.EmpEmailId</div>
+                    <div class="blog-date">Date: @blog.DateOfCreation.ToString("dd-MMM-yyyy")</div>
+                    <a href="@blog.BlogUrl" class="blog-url">@blog.BlogUrl</a>
+                </li>
+            }
+        </ul>
+    </div>
+</body>
+</html>
+
